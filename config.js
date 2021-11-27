@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "TEST WEB",
     introTitle: 'LINH',
-    introDesc: `t có một câu hỏi ,m mà ko trat lời đàng hoàng là t cho m hâp hối:))))`,
+    introDesc: `t có một câu hỏi ,m mà ko trả lời đàng hoàng là t cho m hâp hối:))))`,
     btnIntro: 'ok',
     title: 'T yêu m đo,m yêu t ko',
     desc: 'NẾU M THOÁT WEB LÀ M SẼ ĐC NHẬN LỜI NGUYỀN "KO BAO GIỜ CAO LÊN " TỪ ĐÀM DADDY,nếu bấm nút đc nút dell t cho m 100k',
