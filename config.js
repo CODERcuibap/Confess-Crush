@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    titleWeb: "TEST WEB",
+    introTitle: 'LINH',
+    introDesc: `t có một câu hỏi ,m mà ko trat lời đàng hoàng là t cho m hâp hối:))))`,
+    btnIntro: 'ok',
+    title: 'NẾU M THOÁT WEB LÀ M SẼ ĐC NHẬN LỜI NGUYỀN "KO BAO GIỜ CAO LÊN " TỪ ĐÀM DADDY,nếu bấm nút đc nút dell t cho m 100k',
+    desc: 'T YÊU M ĐÓ ,m có yêu t ko ',
+    btnYes: 'có:)))',
+    btnNo: 'dell nha :)))))',
+    question: 'cho t cái lý do',
+    btnReply: 'Gửi  <3',
+    reply: 'thích thì yêu thôi',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'ÔK GIỜ BẠN LÀ CỦA MIK,KKK:))))',
+    btnAccept: 'Okii',
+    messLink: 'https://chat.zalo.me/?null' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
